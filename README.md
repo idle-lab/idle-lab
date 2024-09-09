@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2418071565)](https://github.com/anuraghazra/github-readme-stats)
+
 <div id="title" align=center>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2418071565&show_icons=true&theme=tokyonight)(https://b23.tv/iEJTnPp)
+
 
 [![Static Badge](https://img.shields.io/badge/Made%20By%20CYB-x?style=flat&label=Blog)](https://2418071565.github.io/)
 

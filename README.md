@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 
 <div id="title" align=center>
@@ -12,13 +10,10 @@
 
 </div>
 
-- 🌱 I’m currently learning [CMU15445 Fall 2023]()
+- 🌱 I’m currently learning [CMU15445 Fall 2023](https://15445.courses.cs.cmu.edu/fall2023/)
 
 
 <!--
-**2418071565/2418071565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...

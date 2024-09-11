@@ -1,7 +1,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=2418071565&count_private=true&theme=vue&hide=prs&show_icons=true" />
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=2418071565&count_private=true&theme=swift&hide=prs&show_icons=true" />
 
 ### 👋 关于我 | About Me
 

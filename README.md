@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning [![Static Badge](https://img.shields.io/badge/CMU-%23E4202E?logo=databricks&label=15-445)](https://15445.courses.cs.cmu.edu/fall2023/).
 
-- ⚡ Fun fact: I’m a huge fan of C/C++ and DataBase.
+- ⚡ Favorite field: C/C++ and DataBase.
 
 ### 🛠 技术栈 | Tech Stack
 

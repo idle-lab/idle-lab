@@ -5,7 +5,7 @@
 
 ### 👋 关于我 | About Me
 
-- 🔭 I am currently studying at Ningbo University.
+- 🔭 I am currently working at [timeplus](https://www.timeplus.com/).
 
 - 💬 You can read my blog: [![Static Badge](https://img.shields.io/badge/Made%20By%20CYB-black?logo=github)](https://idle-lab.github.io/ ).
 

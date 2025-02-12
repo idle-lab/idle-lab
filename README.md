@@ -9,7 +9,7 @@
 
 - 💬 You can read my blog: [![Static Badge](https://img.shields.io/badge/Made%20By%20CYB-black?logo=github)](https://idle-lab.github.io/ ).
 
-- 🌱 I’m currently learning [mit6.824](https://pdos.csail.mit.edu/6.824/){target=_blank}
+- 🌱 I’m currently learning [mit6.824](https://pdos.csail.mit.edu/6.824/)
 
 - ⚡ Favorite field: C/C++ and DataBase.
 

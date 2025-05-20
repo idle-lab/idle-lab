@@ -5,11 +5,11 @@
 
 ### 👋 关于我 | About Me
 
-- 🔭 I am currently looking for a job 😭.
+- 🔭 I am currently working at ![Static Badge](https://img.shields.io/badge/-Tencent%20Cloud-333333?logo=qq).
 
 - 💬 You can read my blog: [![Static Badge](https://img.shields.io/badge/Made%20By%20CYB-black?logo=github)](https://idle-lab.github.io/ ).
 
-- 🌱 I’m currently learning [mit6.824](https://pdos.csail.mit.edu/6.824/)
+- 🌱 I’m currently learning [![Static Badge](https://img.shields.io/badge/-rust-333333?logo=rust&logoColor=%23FA3C00)](https://rustwiki.org/zh-CN/book/title-page.html).
 
 - ⚡ Favorite field: C/C++ and DataBase.
 

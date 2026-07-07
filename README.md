@@ -24,7 +24,6 @@
 
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Static Badge](https://img.shields.io/badge/Bustub-333333?logo=baserow&logoColor=%23CA2133)
-![Static Badge](https://img.shields.io/badge/clickhouse-333333?logo=clickhouse&logoColor=%23FFCC01)
 
 
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)

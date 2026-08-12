@@ -1,7 +1,10 @@
 
 
-
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=idle-lab&count_private=true&theme=swift&hide=prs&show_icons=true" />
+<img
+  align="right"
+  alt="GitHub Stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idle-lab&theme=github"
+/>
 
 ### 👋 关于我 | About Me
 

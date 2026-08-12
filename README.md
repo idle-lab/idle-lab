@@ -1,10 +1,6 @@
 
 
-<img
-  align="right"
-  alt="GitHub Stats"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idle-lab&theme=github"
-/>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idle-lab&theme=github)
 
 ### 👋 关于我 | About Me
 
